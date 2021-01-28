@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body{
+	font-size: 1.6rem;
+	font-family: monospace;
+}
+
+h1 {
+	padding-top: 30px;
+}
+
+p {
+	padding: 20px;
+}
+
+img, p {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#content {
+	width: 70%;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+}
